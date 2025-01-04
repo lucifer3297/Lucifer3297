@@ -12,7 +12,7 @@ Welcome to my corner of the web! I'm a full-stack developer passionate about bui
 - **Frontend:** HTML, CSS, JavaScript (React, Next.js)
 - **Backend:** Node.js, Express.js, MongoDB
 - **Databases:** MongoDB (and exploring others like PostgreSQL)
-- **Deployment:** AWS, Git, GitHub Actions
+- **Deployment:** Azure, Git, GitHub Actions
 
 ## 🌍 Let's Connect
 - 📧 Drop me an email: [Yashmishra3297@gmail.com](mailto:Yashmishra3297@gmail.com)
